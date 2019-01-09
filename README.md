@@ -1,2 +1,4 @@
-# Machine-Learning-Coursera
-Notes, Assignments of the course "Machine Learning" by Standford University on www.coursera.org
+# Machine-Learning
+
+1. [Working with matrices](https://github.com/harshithreddyhr9/Machine-Learning-with-Python/blob/master/Math_basics.ipynb)
+
